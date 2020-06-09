@@ -12,4 +12,4 @@ def toadstool
   status
 end
 
-status
+toadstool
