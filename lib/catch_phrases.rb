@@ -3,3 +3,5 @@ def mario
   puts phrase
   phrase
 end
+
+mario
